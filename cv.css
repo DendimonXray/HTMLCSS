@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-size: 200%;
+    background-image:url(1000923.jpg);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color : white;
+}
+h2{
+    color:white;
+    font-size: 120%;
+    text-align: left;
+    padding-top: 5%;
+}
+p{
+    color:white;
+    font-size: 100%;
+    text-align: left;
+}
+table{
+    color:white;
+    font-size: 70%;
+}
+h3{
+    text-align: left;
+    color: white;
+    font-size: 120%;
+    padding-top: 2%;
+}
+p.pengalaman{
+    padding-bottom: 5%;
+    color: white;
+    font-size: 100%;
+}
+div img{
+    float: right;
+    margin: 5px;
+    
+    width: 20%;
+    border-radius: 300px;
+}
+
+script{
+    color: white;
+}
